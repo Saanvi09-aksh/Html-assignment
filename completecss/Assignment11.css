@@ -1,0 +1,32 @@
+/* TextLink Nav - CSS Text and Navbar Styling Assignment */
+
+header h1 {
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  nav {
+    background-color: #ffacfb;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  a:hover {
+    background-color: #555;
+  }

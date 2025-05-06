@@ -1,0 +1,21 @@
+/* css styling assignment */
+header {
+    color : navy;
+    background-color: purple;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    color : rgb(255,255,255);
+    background-color: palevioletred;
+    padding: 10px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid darkslategray;
+    background-color:rgb(40, 70, 125);
+    margin: 0 auto;
+}
